@@ -20,7 +20,7 @@ body {
 .quadrato {
   height: calc(800px / 5);
   width: calc(800px / 5);
-  background-color: pink;
+  background-color: white;
   border: 1px solid black;
   float: left;
   display: flex;
