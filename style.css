@@ -3,3 +3,24 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.container {
+  width: 800px;
+  height: 800px;
+  margin: auto;
+}
+
+.quadrato {
+  height: calc(800px / 5);
+  width: calc(800px / 5);
+  background-color: pink;
+  border: 1px solid black;
+  float: left;
+}
