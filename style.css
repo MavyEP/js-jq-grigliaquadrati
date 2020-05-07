@@ -23,4 +23,18 @@ body {
   background-color: pink;
   border: 1px solid black;
   float: left;
+  display: flex;
+}
+
+.quadrato p {
+  font-size: 50px;
+  margin: auto;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
 }
